@@ -1,0 +1,4 @@
+Print here some words.
+Hello
+World
+Python :)
